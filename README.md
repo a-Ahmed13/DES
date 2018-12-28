@@ -14,7 +14,7 @@ For now only the .exe is available at a test bench for user inputs
 
 ## Sample
 
-![alt text](https://ibb.co/5RGL7wq)
+![alt text](https://i.ibb.co/TgYtCdz/Capturec-OPY.png)
 
 
 
