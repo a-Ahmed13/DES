@@ -1,3 +1,31 @@
+/* ========================================================================== **
+ *
+ *                                    DES.cpp
+ *
+ * Copyright:
+ *  Copyright © 2018, 2019 by Abdelrahman Ahmed Kamal
+ *
+ * Email: abdelrhman81995@gmail.com
+ *
+ *
+ * -------------------------------------------------------------------------- **
+ *
+ * Description:
+ *
+ *  Implements Both DES Encryption, and Decryption.
+ *  
+ *
+ * -------------------------------------------------------------------------- **
+ *
+ * License:
+ *
+ *  This is a Free software, feel free to use, edit , or distribute.
+ *  You shall not used for any unethical purpose.
+ *
+ *
+ * -------------------------------------------------------------------------- **
+ */
+
 //to stop preprocessor warrnings regarding unsecure scanf & printf
 #define _CRT_SECURE_NO_WARNINGS
 
